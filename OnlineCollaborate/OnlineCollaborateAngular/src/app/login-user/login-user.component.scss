@@ -1,0 +1,74 @@
+body {
+    background-color: #050649;
+    font-family:monospace;
+}
+
+.main {
+    background-color: #eba2e1be;
+    width: 400px;
+    height: 300px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.sign {
+    padding-top: 40px;
+    color: #34074d;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.un {
+width: 76%;
+color: rgb(18, 18, 20);
+font-weight: 700;
+font-size: 14px;
+letter-spacing: 1px;
+background: rgba(250, 0, 0, 0.04);
+padding: 10px 20px;
+border-radius: 20px;
+box-sizing: border-box;
+border: 2px solid rgba(76, 46, 207, 0.856);
+margin-bottom: 50px;
+margin-left: 46px;
+text-align: center;
+margin-bottom: 27px;
+font-family:monospace;
+}
+
+
+.pass {
+        width: 76%;
+color: rgb(38, 50, 56);
+font-weight: 700;
+font-size: 14px;
+letter-spacing: 1px;
+background: rgba(136, 126, 126, 0.04);
+padding: 10px 20px;
+border-radius: 20px;
+box-sizing: border-box;
+border: 2px solid rgba(76, 46, 207, 0.856);
+margin-bottom: 50px;
+margin-left: 46px;
+text-align: center;
+margin-bottom: 27px;
+font-family:monospace;
+}
+
+.submit {
+  cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: linear-gradient(to right, #6b2377, #E040FB);
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family:monospace;
+    margin-left: 35%;
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
